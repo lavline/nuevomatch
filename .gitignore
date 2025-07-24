@@ -1,1 +1,7 @@
 bin/*
+.vscode
+orange_model
+tuplemerge
+*.onnxB
+*.stat
+*.sh
